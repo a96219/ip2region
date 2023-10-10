@@ -1,0 +1,542 @@
+China Fujian|福建
+Fujian Fuzhou|福州
+China Guangdong|广东
+Guangdong Guangzhou|广州
+China Shanghai|上海
+Shanghai Shanghai|上海
+China Beijing|北京
+Beijing Beijing|北京
+China Nei Mongol|内蒙古
+Nei Mongol Baotou|包头
+Taiwan Taichung|台中
+Taiwan Taipei|台北
+Taiwan New Taipei|新北
+Taiwan Taoyuan|桃园
+Taiwan Hsinchu|新竹
+Taiwan Keelung|基隆
+China Guizhou|贵州
+Guizhou Anshun|安顺
+Guizhou Duyun|都匀
+Guizhou Tongren|铜仁
+Guizhou Bijie|毕节
+Guizhou Zunyi|遵义
+Guizhou Guiyang|贵阳
+Guizhou Xingyi|兴义
+Guizhou Liupanshui|六盘水
+China Ningxia Huizu|宁夏回族
+Ningxia Huizu Yinchuan|银川
+China Jiangsu|江苏
+Jiangsu Nanjing|南京
+China Heilongjiang|黑龙江
+Heilongjiang Hegang|鹤岗
+Heilongjiang Harbin|哈尔滨
+Heilongjiang Mudanjiang|牡丹江
+Heilongjiang Hailin|海林
+Heilongjiang Suihua|绥化
+Heilongjiang Qiqihar|齐齐哈尔
+Heilongjiang Shuangyashan|双鸭山
+Heilongjiang Jixi|鸡西
+Heilongjiang Daqing|大庆
+Heilongjiang Jiamusi|佳木斯
+Heilongjiang Heihe|黑河
+Heilongjiang Qitaihe|七台河
+Heilongjiang Yichun|伊春
+China Shanxi|山西
+Shanxi Taiyuan|太原
+China Shaanxi|陕西
+Shaanxi Xi'an|西安
+Shaanxi Weinan|渭南
+Shaanxi Hanzhong|汉中
+Shaanxi Shangluo|商洛
+Shaanxi Ankang|安康
+Shaanxi Yulin|榆林
+Shaanxi Baoji|宝鸡
+Shaanxi Xianyang|咸阳
+Shaanxi Yan'an|延安
+Shaanxi Tongchuan|铜川
+China Zhejiang|浙江
+Zhejiang Hangzhou|杭州
+Taiwan Yilan|宜兰
+Taiwan Hualien|花莲
+Taiwan Changhua|昌化
+Taiwan Taitung|台东
+Taiwan Yunlin|云林
+Taiwan Chiayi|嘉义
+Taiwan Nantou|南投
+Taiwan Miaoli|苗栗
+Taiwan Tainan|台南
+Taiwan Penghu|澎湖
+Taiwan Kaohsiung|高雄
+Taiwan Pingtung|屏东
+Taiwan Kinmen|金门
+China Henan|河南
+Henan Zhengzhou|郑州
+Henan Luohe|漯河
+Henan Xinxiang|新乡
+Henan Kaifeng|开封
+Henan Nanyang|南阳
+Henan Luoyang|洛阳
+Henan Zhoukou|周口
+Henan Pingdingshan|平顶山
+Henan Anyang|安阳
+Henan Zhumadian|驻马店
+Henan Jiaozuo|焦作
+Henan Sanmenxia|三门峡
+Henan Puyang|濮阳
+Henan Xuchang|许昌
+Henan Shangqiu|商丘
+Henan Xinyang|信阳
+Henan Hebi|鹤壁
+Henan Jiyuan|济源
+Guizhou Kaili|凯里
+Guangdong Shenzhen|深圳
+China Sichuan|四川
+Sichuan Chengdu|成都
+China Guangxi Zhuangzu|广西壮族
+Guangxi Zhuangzu Nanning|南宁
+Guangdong Dongguan|东莞
+Guangdong Zhanjiang|湛江
+Guangdong Foshan|佛山
+Guangdong Zhongshan|中山
+Guangdong Yunfu|云浮
+Guangdong Huizhou|惠州
+Guangdong Zhaoqing|肇庆
+Guangdong Chaozhou|潮州
+Guangdong Maoming|茂名
+Guangdong Shanwei|汕尾
+Guangdong Meizhou|梅州
+Guangdong Shantou|汕头
+Guangdong Yangjiang|阳江
+Guangdong Zhuhai|珠海
+Guangdong Heyuan|河源
+Guangdong Jieyang|揭阳
+Guangdong Jiangmen|江门
+Guangdong Qingyuan|清远
+China Chongqing|重庆
+Chongqing Chongqing|重庆
+Guangdong Shaoguan|韶关
+Ningxia Huizu Shizuishan|石嘴山
+Ningxia Huizu Guyuan|固原
+Ningxia Huizu Wuzhong|吴中
+China Hebei|河北
+Hebei Shijiazhuang|石家庄
+Zhejiang Wenzhou|温州
+China Liaoning|辽宁
+Liaoning Dalian|大连
+Liaoning Shenyang|沈阳
+China Yunnan|云南
+Yunnan Jinghong|景洪
+Yunnan Kunming|昆明
+Yunnan Lijiang|丽江
+Yunnan Lincang|临沧
+Yunnan Mangshi|芒市
+Yunnan Qujing|曲靖
+Yunnan Zhaotong|昭通
+Yunnan Baoshan|保山
+Yunnan Honghe|红河
+Yunnan Pu'er|普洱
+Yunnan Yuxi|玉溪
+Yunnan Dali|大理
+Yunnan Chuxiong|楚雄
+Yunnan Ruili|瑞丽
+Yunnan Gejiu|个旧
+Yunnan Mengzi|蒙自
+Zhejiang Jiaxing|嘉兴
+Jiangsu Kunshan|昆山
+China Shandong|山东
+Shandong Weifang|潍坊
+Zhejiang Taizhou|台州
+Jiangsu Wuxi|无锡
+China Hunan|湖南
+Hunan Changsha|长沙
+China Jiangxi|江西
+Jiangxi Ji'an|吉安
+Jiangsu Suzhou|苏州
+Sichuan Mianyang|绵阳
+Jiangsu Huai'an|淮安
+Jiangsu Yancheng|盐城
+Jiangsu Changshu|常熟
+Shandong Yantai|烟台
+China Tianjin|天津
+Tianjin Tianjin|天津
+Fujian Xiamen|厦门
+Zhejiang Ningbo|宁波
+Shandong Jinan|济南
+Shandong Qingdao|青岛
+China Hubei|湖北
+Hubei Wuhan|武汉
+Hubei Jingzhou|荆州
+Hubei Yichang|宜昌
+Hubei Xiangyang|襄阳
+Hubei Xiaogan|孝感
+Hubei Huanggang|黄冈
+Hubei Huangshi|黄石
+Hubei Xianning|咸宁
+Hubei Enshi|恩施
+Hubei Jingmen|荆门
+Hubei Shiyan|十堰
+Hubei Ezhou|鄂州
+Hubei Qianjiang|潜江
+Hubei Suizhou|随州
+China Anhui|安徽
+Anhui Hefei|合肥
+China Xizang|西藏
+Xizang Lhasa|拉萨
+Xizang Qamdo|昌都
+Xizang Nagqu|那曲
+Xizang Shannan|山南
+Xizang Nyingchi|林芝
+Hebei Baoding|保定
+Hebei Tangshan|唐山
+Hebei Xinji|辛集
+Hebei Handan|邯郸
+Hebei Cangzhou|沧州
+Hebei Langfang|廊坊
+Hebei Hengshui|衡水
+Hebei Xingtai|邢台
+Fujian Putian|莆田
+Fujian Nanping|南平
+Fujian Jian'ou|建瓯
+Fujian Sanming|三明
+Fujian Ningde|宁德
+Fujian Fuqing|福清
+Fujian Quanzhou|泉州
+Fujian Zhangzhou|漳州
+Fujian Fu'an|福安
+Fujian Longyan|龙岩
+Hebei Gaobeidian|高碑店
+Hebei Dingzhou|定州
+Hebei Zhuozhou|涿州
+Shandong Pingdu|平度
+Shandong Binzhou|滨州
+Shandong Zibo|淄博
+Shandong Liaocheng|聊城
+Shandong Linyi|临沂
+Shandong Jining|济宁
+Shandong Tai'an|泰安
+Shandong Dongying|东营
+Shandong Weihai|威海
+Shandong Xintai|鑫泰
+Shandong Zaozhuang|枣庄
+Shandong Heze|菏泽
+Shandong Dezhou|德州
+Shandong Leling|乐陵
+Shandong Yucheng|禹城
+China Gansu|甘肃
+Gansu Dingxi|定西
+Gansu Tianshui|天水
+Gansu Lanzhou|兰州
+Gansu Longnan|陇南
+Gansu Hezuo|合作
+Gansu Baiyin|白银
+Gansu Pingliang|平凉
+Gansu Jinchang|金昌
+Gansu Wuwei|武威
+Gansu Jiuquan|酒泉
+Gansu Jiayuguan|嘉峪关
+Gansu Linxia|临夏
+Gansu Qingyang|庆阳
+Gansu Zhangye|张掖
+China Hainan|海南
+Hainan Haikou|海口
+Hainan Wenchang|文昌
+Hainan Sanya|三亚
+Anhui Chizhou|池州
+Anhui Suzhou|宿州
+Anhui Wuhu|芜湖
+Anhui Tongling|铜陵
+Anhui Bengbu|蚌埠
+Anhui Ma'anshan|马鞍山
+Anhui Bozhou|亳州
+Anhui Fuyang|阜阳
+Anhui Chuzhou|滁州
+Anhui Huainan|淮南
+Anhui Huangshan|黄山
+Anhui Anqing|安庆
+Anhui Lu'an|六安
+Anhui Xuancheng|宣城
+Zhejiang Lishui|丽水
+Zhejiang Jinhua|金华
+Zhejiang Yiwu|义乌
+Zhejiang Quzhou|衢州
+Zhejiang Zhoushan|舟山
+Zhejiang Shaoxing|绍兴
+Zhejiang Yuyao|余姚
+Zhejiang Lanxi|兰溪
+Zhejiang Huzhou|湖州
+Zhejiang Tongxiang|桐乡
+Anhui Huaibei|淮北
+Shaanxi Hancheng|韩城
+China Jilin|吉林
+Jilin Changchun|长春
+Jilin Dehui|德惠
+Jilin Jilin|吉林
+Jilin Yanji|延吉
+Jilin Songyuan|松原
+Jilin Longjing|龙井
+Jilin Dunhua|敦化
+Jilin Tumen|图们
+Jilin Liaoyuan|辽源
+Jilin Meihekou|梅河口
+Jilin Tonghua|通化
+Liaoning Chaoyang|朝阳
+Liaoning Jinzhou|锦州
+Liaoning Wafangdian|瓦房店
+Liaoning Anshan|鞍山
+Liaoning Yingkou|营口
+Liaoning Fushun|抚顺
+Liaoning Panjin|盘锦
+Jiangxi Yichun|宜春
+Hebei Zhangjiakou|张家口
+Hunan Changde|常德
+Hunan Loudi|娄底
+Hunan Zhuzhou|株洲
+Hunan Chenzhou|郴州
+Hunan Hengyang|衡阳
+Hunan Huaihua|怀化
+Hunan Yongzhou|永州
+Hunan Yueyang|岳阳
+Hunan Yiyang|益阳
+Hunan Zhangjiajie|张家界
+Jiangsu Nantong|南通
+Jiangsu Xuzhou|徐州
+Jiangsu Yangzhou|扬州
+Jiangsu Taizhou|泰州
+Jiangsu Suqian|宿迁
+Jiangsu Zhenjiang|镇江
+Jiangsu Changzhou|常州
+Jiangsu Lianyungang|连云港
+Hunan Shaoyang|邵阳
+Hunan Xiangtan|湘潭
+Hunan Jishou|吉首
+Anhui Chaohu|巢湖
+China Xinjiang Uygur|新疆维吾尔
+Xinjiang Uygur Altay|阿勒泰
+Xinjiang Uygur Hotan|和田
+Xinjiang Uygur Tacheng|塔城
+Xinjiang Uygur Kashgar|喀什
+Xinjiang Uygur Changji|昌吉
+Xinjiang Uygur Karamay|克拉玛依
+Xinjiang Uygur Kuytun|奎屯
+Xinjiang Uygur Aksu|阿克苏
+Xinjiang Uygur Aral|阿拉尔
+Xinjiang Uygur Shihezi|石河子
+Xinjiang Uygur Yining|伊宁
+Hebei Qinhuangdao|秦皇岛
+Hebei Chengde|承德
+Nei Mongol Hohhot|呼和浩特
+Nei Mongol Tongliao|通辽
+Nei Mongol Chifeng|赤峰
+Jiangxi Nanchang|南昌
+China Qinghai|青海
+Qinghai Xining|西宁
+Taiwan Lienchiang|连江
+China -|香港
+- -|香港
+Shandong Rizhao|日照
+Yunnan Wenshan|文山
+Yunnan Mile|弥勒
+Yunnan Anning|安宁
+Shanxi Jincheng|晋城
+Shanxi Fenyang|汾阳
+Shanxi Yangquan|阳泉
+Liaoning Benxi|本溪
+Liaoning Fuxin|阜新
+Liaoning Huludao|葫芦岛
+Jiangxi Ganzhou|赣州
+Jiangxi Jingdezhen|景德镇
+Qinghai Delingha|德令哈
+Qinghai Yushu|玉树
+Nei Mongol Wuhai|乌海
+Nei Mongol Bayannur|巴彦淖尔
+Nei Mongol Ordos|鄂尔多斯
+Nei Mongol Xilinhot|锡林浩特
+Nei Mongol Hulunbuir|呼伦贝尔
+Sichuan Guangyuan|广元
+Sichuan Panzhihua|攀枝花
+Sichuan Yibin|宜宾
+Xinjiang Uygur Hami|哈密
+Fujian Yong'an|永安
+Henan Dengfeng|登封
+Henan Yuzhou|禹州
+Liaoning Dandong|丹东
+Guangxi Zhuangzu Baise|百色
+Guangxi Zhuangzu Liuzhou|柳州
+Guangxi Zhuangzu Yulin|玉林
+Shanxi Gaoping|高平
+Guangxi Zhuangzu Guilin|桂林
+Jiangsu Taicang|太仓
+Liaoning Tieling|铁岭
+Liaoning Liaoyang|辽阳
+Nei Mongol Ulanhot|乌兰浩特
+Nei Mongol Ulanqab|乌兰察布
+Jiangxi Pingxiang|萍乡
+Jiangxi Shangrao|上饶
+Jiangxi Fuzhou|抚州
+Jiangxi Xinyu|新余
+Jiangxi Jiujiang|九江
+Jiangxi Yingtan|鹰潭
+Zhejiang Zhuji|诸暨
+Zhejiang Longgang|龙港
+Zhejiang Dongyang|东阳
+Hunan Lengshuijiang|冷水江
+Ningxia Huizu Zhongwei|中卫
+Liaoning Gaizhou|盖州
+Liaoning Beipiao|北票
+Henan Qinyang|沁阳
+Henan Dengzhou|邓州
+Hebei Sanhe|三河
+Sichuan Nanchong|南充
+Hainan Danzhou|儋州
+Sichuan Bazhong|巴中
+Jiangsu Hai'an|海安
+Jiangsu Xinghua|兴化
+Xinjiang Uygur Korla|库尔勒
+Hubei Xiantao|仙桃
+Hubei Tianmen|天门
+Jilin Baishan|白山
+Jilin Baicheng|白城
+Fujian Jinjiang|晋江
+Jiangsu Zhangjiagang|张家港
+Jiangsu Danyang|丹阳
+Jiangsu Jurong|句容
+Jiangsu Taixing|泰兴
+Anhui Mingguang|明光
+Jilin Siping|四平
+Jilin Hunchun|珲春
+Guangdong Xinyi|信宜
+Hainan Wanning|万宁
+Hainan Qionghai|琼海
+Hainan Wuzhishan|五指山
+Hainan Dongfang|东方
+Fujian Fuding|福鼎
+Heilongjiang Wudalianchi|五大连池
+Heilongjiang Nenjiang|嫩江
+Yunnan Kaiyuan|开远
+Jiangxi Longnan|龙南
+Zhejiang Jiangshan|江山
+Zhejiang Longquan|龙泉
+Shandong Qufu|曲阜
+Shandong Feicheng|肥城
+Shandong Tengzhou|滕州
+Hubei Yicheng|宜城
+Sichuan Guang'an|广安
+Shanxi Changzhi|长治
+Shanxi Jiexiu|介休
+Shanxi Jinzhong|晋中
+Sichuan Ziyang|资阳
+Hebei Renqiu|任丘
+Xinjiang Uygur Turpan|吐鲁番
+Shandong Anqiu|安丘
+Qinghai Haidong|海东
+Sichuan Deyang|德阳
+Sichuan Luzhou|泸州
+Sichuan Zigong|自贡
+Sichuan Neijiang|内江
+Sichuan Leshan|乐山
+Sichuan Ya'an|雅安
+Sichuan Xichang|西昌
+Sichuan Suining|遂宁
+Sichuan Dazhou|达州
+Sichuan Meishan|眉山
+Sichuan Jiangyou|江油
+Guangdong Puning|普宁
+Gansu Yumen|玉门
+Hubei Danjiangkou|丹江口
+Shanxi Linfen|临汾
+Shanxi Yuncheng|运城
+Shanxi Datong|大同
+Qinghai Golmud|格尔木
+Shanxi Xinzhou|忻州
+Shanxi Shuozhou|朔州
+Hebei Zunhua|遵化
+Hebei Nangong|南宫
+Guangdong Lianzhou|连州
+Guangxi Zhuangzu Hechi|河池
+Zhejiang Haining|海宁
+Zhejiang Wenling|温岭
+Zhejiang Yueqing|乐清
+Shandong Longkou|龙口
+Jilin Panshi|磐石
+Heilongjiang Shangzhi|尚志
+Shandong Zoucheng|邹城
+Hebei Pingquan|平泉
+Hunan Liuyang|浏阳
+Sichuan Dujiangyan|都江堰
+Sichuan Kangding|康定
+Sichuan Barkam|马尔康
+Guangxi Zhuangzu Qinzhou|钦州
+Guangxi Zhuangzu Wuzhou|梧州
+Guangxi Zhuangzu Hezhou|贺州
+Guangxi Zhuangzu Laibin|来宾
+Guangxi Zhuangzu Chongzuo|崇左
+Jilin Helong|合隆
+Shandong Laiyang|莱阳
+Anhui Jieshou|界首
+Shanxi Gujiao|古交
+Guangxi Zhuangzu Beihai|北海
+Guangxi Zhuangzu Guigang|贵港
+Hubei Zhongxiang|钟祥
+Hubei Guangshui|广水
+Liaoning Lingyuan|凌源
+Fujian Shaowu|邵武
+Shandong Linqing|临清
+Shandong Zhaoyuan|招远
+Shandong Zhucheng|诸城
+Shandong Zouping|邹平
+Heilongjiang Bei'an|北安
+Guangdong Lianjiang|廉江
+Liaoning Xinmin|新民
+Guangxi Zhuangzu Fangchenggang|防城港
+Guangdong Kaiping|开平
+Jiangxi Lushan|庐山
+Hubei Anlu|安陆
+Guizhou Fuquan|福泉
+Shanxi Xiaoyi|孝义
+Shanxi Huozhou|霍州
+Shanxi Hejin|河津
+Shanxi Yongji|永济
+Shanxi Yuanping|原平
+Sichuan Guanghan|广汉
+Hunan Hongjiang|洪江
+Sichuan Langzhong|阆中
+Hubei Wuxue|武穴
+Hubei Hanchuan|汉川
+Xinjiang Uygur Wujiaqu|五家渠
+Hunan Leiyang|耒阳
+Guangdong Leizhou|雷州
+Guangdong Sihui|四会
+Guangdong Taishan|台山
+Shaanxi Xingping|兴平
+Jilin Shulan|舒兰
+Hubei Dangyang|当阳
+Zhejiang Pinghu|平湖
+Heilongjiang Wuchang|五常
+Liaoning Zhuanghe|庄河
+Xinjiang Uygur Fukang|阜康
+Hunan Wugang|武冈
+Liaoning Xingcheng|兴城
+Hubei Lichuan|利川
+Jiangxi Zhangshu|樟树
+Jiangsu Pizhou|邳州
+Sichuan Huili|会理
+Jilin Huadian|桦甸
+Hubei Macheng|麻城
+Jiangxi Dexing|德兴
+Jiangxi Guixi|贵溪
+Ningxia Huizu Qingtongxia|青铜峡
+Heilongjiang Dongning|东宁
+Jilin Jiaohe|蛟河
+Jiangsu Dongtai|东台
+Zhejiang Linhai|临海
+Guangdong Wuchuan|吴川
+Hebei Botou|中泊
+Fujian Nan'an|南安
+Heilongjiang Suifenhe|绥芬河
+Jilin Yushu|榆树
+Nei Mongol Erenhot|二连浩特
+Shandong Gaomi|高密
+Shandong Qingzhou|青州
+Henan Yima|义马
+Henan Gongyi|巩义
+Liaoning Kaiyuan|开原
